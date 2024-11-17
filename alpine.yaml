@@ -1,0 +1,19 @@
+yaml:
+  boost-thread:
+    alpine: [boost-dev]
+  boost-system:
+    alpine: [boost-dev]
+  boost-filesystem:
+    alpine: [boost-dev]
+  boost-regex:
+    alpine: [boost-dev]
+  uuid:
+    alpine: [util-linux-dev]
+  python3-paramiko:
+    alpine: [py3-paramiko]
+  python3-coverage:
+    alpine: [py3-coverage]
+  python3-nose:
+    alpine: [py3-nose]
+  python3-defusedxml:
+    alpine: [py3-defusedxml]
