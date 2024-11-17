@@ -1,11 +1,11 @@
 yaml:
-  boost-thread:
+  libboost-thread-dev:
     alpine: [boost-dev]
-  boost-system:
+  libboost-system-dev:
     alpine: [boost-dev]
-  boost-filesystem:
+  libboost-filesystem-dev:
     alpine: [boost-dev]
-  boost-regex:
+  libboost-regex-dev:
     alpine: [boost-dev]
   uuid:
     alpine: [util-linux-dev]
